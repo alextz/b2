@@ -1,0 +1,7 @@
+From: "sig_poster" <sig_poster@tranzoa.com>
+Newsgroups: grc.spam
+Subject: todo.doc signature
+
+Dimas XMODEM    BBS TCP/IP  UUsum  Sys V   Checksum       XOR CRC-16 PalmPilot     CRC-32      PKZIP    .   .   .Secure .   .Hash   .   .   .    .   .Message.Digest . 4 .   .    .   .Message.Digest . 5 .   .    .   .RIPEMD-160 .Secure Hash.   .   .  Binary file
+   50F8   F850   0806   4DC3  51095  29818   015D731D    [.] F1   7C6F      F850   F3D75DD7   3b488885 19ac8513a86b97a796c596ff281d470dc12b84c3 c0119717e4bd46b8b1eead46756f6f32 ff849504da727772b5ec53bfc3bfbe51 dfd2b1f4aaa099b7635d275c336bddb29b7cb5ca  todo.doc   286497  9-10-16  3:06A
+Sat Sep 10 10:31:01 2016
