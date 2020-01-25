@@ -4,4 +4,4 @@ Subject: todo.doc signature
 
 Dimas XMODEM    BBS TCP/IP  UUsum  Sys V   Checksum       XOR CRC-16 PalmPilot     CRC-32      PKZIP    .   .   .Secure .   .Hash   .   .   .    .   .Message.Digest . 4 .   .    .   .Message.Digest . 5 .   .    .   .RIPEMD-160 .Secure Hash.   .   .  Binary file
    E1AC   ACE1   C81D   F232   3896   3278   01650B69    [.] C9   409D      ACE1   C8556927   684d6bd3 94d19c4d5af363a2d80665f3fd530add7349b552 af8f5cbdb837af356493fc1571d52bc3 2a1173b3eb5d49e322f45ff71474f485 1a04b51345b1957ee6a88170b62a124144c08379  todo.doc   292535
-Sat Jan 25 04:44:28 2020 GMT
+Sat Jan 25 04:53:41 2020 GMT
