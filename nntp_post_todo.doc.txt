@@ -3,5 +3,5 @@ Newsgroups: grc.spam
 Subject: todo.doc signature
 
 Dimas XMODEM    BBS TCP/IP  UUsum  Sys V   Checksum       XOR CRC-16 PalmPilot     CRC-32      PKZIP    .   .   .Secure .   .Hash   .   .   .    .   .Message.Digest . 4 .   .    .   .Message.Digest . 5 .   .    .   .RIPEMD-160 .Secure Hash.   .   .  Binary file
-   85A3   A385   AD70   2B44  46284  62364   0162F23A    [.] D0   B088      A385   D9E426A8   bb45d845 5242deb97dcc2188d2faf73bdf820c644557c4f8 673d67d17c7e3fb83f3b3a08affe88c0 6ac522ddc3e14c6edaa40407113364c2 618572623953dae193d18b5f4eb58936fb9d1df0  todo.doc   290901  7-08-18  2:57A
-Sun Jul  8 09:57:07 2018 GMT
+   E1AC   ACE1   C81D   F232   3896   3278   01650B69    [.] C9   409D      ACE1   C8556927   684d6bd3 94d19c4d5af363a2d80665f3fd530add7349b552 af8f5cbdb837af356493fc1571d52bc3 2a1173b3eb5d49e322f45ff71474f485 1a04b51345b1957ee6a88170b62a124144c08379  todo.doc   292535
+Sat Jan 25 04:44:28 2020 GMT
